@@ -18,12 +18,12 @@ NSF grant on Semi-Parametric Factor Analysis for Item Responses and ResponseTime
   - **_Technologies used:_** R, LaTex.
 <br><br>
 
-**Psychometric Intern** @ [FINRA](https://www.finra.org/#/)_(May 2020 - Aug 2020)_<br>
+**Psychometric Intern** @ [FINRA](https://www.finra.org/#/) _(May 2020 - Aug 2020)_<br>
 - Implemented text mining techniques (e.g., part-of-speech, word embeddings:word2vec & GloVe) to extract linguistic features from the financial licensure test
 - Built supervised machine learning models (SVM, XGboost, random forest) topredict item difficulty without the field test
 <br><br>
 
-**Psychometric Intern and Graduate Assistant** @ [Center for Applied Linguistics](https://www.cal.org/)_(June 2018 - May 2020)_<br>
+**Psychometric Intern and Graduate Assistant** @ [Center for Applied Linguistics](https://www.cal.org/) _(June 2018 - May 2020)_<br>
 -Implement psychometric research projects for large-scale English language proficiency summative assessments (ACCESS 2.0)
 - **Project 1**:  Re-scaling study–Conducted concurrent item calibration for the writing and reading domainsfor over 38 states in the U.S. using the Rasch-grouped rating scale model in Winsteps
 –Conducted common item equating to maintain newly established scale
