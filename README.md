@@ -38,11 +38,17 @@ NSF grant on Semi-Parametric Factor Analysis for Item Responses and ResponseTime
 ## 📖 Publications
 
 1. Taboada Barber, A., Klauda, S. L., & **Wang, W.** (2021). [Reading anxiety, engagement, and achieve-ment: A comparison of emergent bilinguals and  English monolinguals in the elementary grades](https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.398). _Reading Research Quarterly_.
+
 2. Taboada Barber, A., Klauda, S. L., **Wang, W.**, Cartwright, K. B., & Cutting, L. E. (2021). [Emergent bilinguals with specific reading comprehension deficits: A comparative and longitudinal analysis](https://journals.sagepub.com/doi/10.1177/0022219420983247). _Journal of Learning Disabilities_.
+
 3. **Wang**, W., Liao.  M., & Stapleton, L. M. (2019). [Incidental second-level dependence in educationalsurvey data with a nested data structure](https://link.springer.com/article/10.1007/s10648-019-09480-6). _Educational Psychology Review_, _31_(3_, 571-596.
+
 4. Wang, C., **Wang, W.**, Zheng, L., & Atwal, K. (2016). [Bullying prevention as a social justice issue: Implications with Asian American elementary  school students](https://eric.ed.gov/?id=EJ1149003). _School Psychology Forum_, _10_(3), 251-264.
+
 5. Liu, Y. & **Wang, W.**(submitted). Semiparametric Factor Analysis for Item-Level Response Time Data.
+
 6. **Wang, W.**, Liu, Y., & Liu, H. (submitted). Detecting item differential functioning without prede-fined anchor items.
+
 7. **Wang, W.**&  Harring,  J.  R.  (submitted). Robustness  Conditions  for  MIIV-2SLS  and  Model  Re-specification.
 
 ## 💻 Selected Conference Presentations
