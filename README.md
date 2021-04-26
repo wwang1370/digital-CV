@@ -1,4 +1,4 @@
-## Weimeng Wang
+# Weimeng Wang
 
 _Statistician and psychometrician in Maryland, USA_<br>
 [EMAIL](weimengbonnie@gmail.com) / [LinkedIn](https://www.linkedin.com/in/weimengwang) / [GitHub](https://github.com/wwang1370)
@@ -33,38 +33,34 @@ NSF grant on Semi-Parametric Factor Analysis for Item Responses and ResponseTime
 <br><br>
 
 
-You can use the [editor on GitHub](https://github.com/wwang1370/digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 📖 Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Taboada Barber, A., Klauda, S. L., & **Wang, W.** (2021). [Reading anxiety, engagement, and achieve-ment: A comparison of emergent bilinguals and  English monolinguals in the elementary grades](https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.398). _Reading Research Quarterly_.
+2. Taboada Barber, A., Klauda, S. L., **Wang, W.**, Cartwright, K. B., & Cutting, L. E. (2021). [Emergent bilinguals with specific reading comprehension deficits: A comparative and longitudinal analysis](https://journals.sagepub.com/doi/10.1177/0022219420983247). _Journal of Learning Disabilities_.
+3. **Wang**, W., Liao.  M., & Stapleton, L. M. (2019). [Incidental second-level dependence in educationalsurvey data with a nested data structure](https://link.springer.com/article/10.1007/s10648-019-09480-6). _Educational Psychology Review_, _31_(3_, 571-596.
+4. Wang, C., **Wang, W.**, Zheng, L., & Atwal, K. (2016). [Bullying prevention as a social justice issue: Implications with Asian American elementary  school students](https://eric.ed.gov/?id=EJ1149003). _School Psychology Forum_, _10_(3), 251-264.
+5. Liu, Y. & **Wang, W.**(submitted). Semiparametric Factor Analysis for Item-Level Response Time Data.
+6. **Wang, W.**, Liu, Y., & Liu, H. (submitted). Detecting item differential functioning without prede-fined anchor items.
+7. **Wang, W.**&  Harring,  J.  R.  (submitted). Robustness  Conditions  for  MIIV-2SLS  and  Model  Re-specification.
 
-### Markdown
+## Selected Conference Presentations
+1. **Wang, W.**, Yen R., & Patton, J. (2021, June). Predicting Item Difficulty using Text Mining Techniques. Paper submitted at the Annual Meeting of National Council on Measurement in Education, College Park, MD, USA.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Liu, Y. & **Wang, W.** (2021, June). Flexible Modeling of Item Responses and Response Time Using Splines. Paper submitted at the Annual Meeting of National Council on Measurement in Education, College Park, MD, USA.
 
-```markdown
-Syntax highlighted code block
+3. **Wang, W.**, Liu, Y., & Liu, H. (2020, July). An Anchor-Free Test of Differential Item Functioning. Paper accepted at the International Meeting of the Psychometric Society, College Park, MD, USA.
 
-# Header 1
-## Header 2
-### Header 3
+4. **Wang, W.**, Liu, Y., Liu, H., & Yuan, K-H. (2020, April). Detecting Item Differential Functioning without Anchor Items.  Paper to be presented at the Annual Meeting of National Council on Measurement in Education, San Francisco, CA, USA.
 
-- Bulleted
-- List
+5. **Wang, W.** & Yang, J. S. (2019, July). Predictive inferences of the bi-factor model and the simple structure model. To be presented at the International Meeting of the Psychometric Society, Santiago, Chile.
 
-1. Numbered
-2. List
+6. Jiao, H., **Wang, W.**, & Liao, M. (2019, July). Joint modeling of responses and response time for subdomain diagnosis.  Paper presented at the International Meeting of the Psychometric Society, Santiago, Chile.
 
-**Bold** and _Italic_ and `Code` text
+7. **Wang, W.**, Sun, J., & Jiao, H. (2019, April). Estimating students’ topic-level abilities using extended higher-order IRT models. Paper presented at the Annual Meeting of National Council on Measurement in Education, Toronto, Canada.
 
-[Link](url) and ![Image](src)
-```
+8. **Wang, W.**, Liao, M., & Stapleton, L. M. (2018, July). The effect of incidental second-level dependence in multilevel models. Poster session presented at the International Meeting of the Psychometric Society, New York, NY.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+9. Ross, A., **Wang, W.**, & Wang, C. (2017, August). Longitudinal relationships between covitality and victimization among Chinese students’ social justice-providing access to educational and mental health opportunities for diverse youth. Poster session presented at American Psychological Association Annual Convention, Washington, D.C.
 
-### Jekyll Themes
+10. **Wang, W.**, Wang, C., & Zheng, L. (2017 April). Bullying prevention as a social justice issue: implication with Asian American elementary school students. Poster session presented at the Social Justice Day 2017, University of Maryland, College Park, MD.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wwang1370/digital-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
