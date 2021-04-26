@@ -1,6 +1,8 @@
 # Weimeng Wang
 
+_P.hD. Candidate in [Measurement, Statistics and Evaluation](https://education.umd.edu/measurement-statistics-evaluation-program) at the University of Maryland, College Park_<br>
 _Statistician and psychometrician in Maryland, USA_<br>
+
 [EMAIL](weimengbonnie@gmail.com) / [LinkedIn](https://www.linkedin.com/in/weimengwang) / [GitHub](https://github.com/wwang1370)
 
 ## 👩🏼‍💻 Professional Experience
@@ -43,7 +45,8 @@ NSF grant on Semi-Parametric Factor Analysis for Item Responses and ResponseTime
 6. **Wang, W.**, Liu, Y., & Liu, H. (submitted). Detecting item differential functioning without prede-fined anchor items.
 7. **Wang, W.**&  Harring,  J.  R.  (submitted). Robustness  Conditions  for  MIIV-2SLS  and  Model  Re-specification.
 
-## Selected Conference Presentations
+## 💻 Selected Conference Presentations
+
 1. **Wang, W.**, Yen R., & Patton, J. (2021, June). Predicting Item Difficulty using Text Mining Techniques. Paper submitted at the Annual Meeting of National Council on Measurement in Education, College Park, MD, USA.
 
 2. Liu, Y. & **Wang, W.** (2021, June). Flexible Modeling of Item Responses and Response Time Using Splines. Paper submitted at the Annual Meeting of National Council on Measurement in Education, College Park, MD, USA.
@@ -63,4 +66,12 @@ NSF grant on Semi-Parametric Factor Analysis for Item Responses and ResponseTime
 9. Ross, A., **Wang, W.**, & Wang, C. (2017, August). Longitudinal relationships between covitality and victimization among Chinese students’ social justice-providing access to educational and mental health opportunities for diverse youth. Poster session presented at American Psychological Association Annual Convention, Washington, D.C.
 
 10. **Wang, W.**, Wang, C., & Zheng, L. (2017 April). Bullying prevention as a social justice issue: implication with Asian American elementary school students. Poster session presented at the Social Justice Day 2017, University of Maryland, College Park, MD.
+
+## 💬 Language
+
+- Chinese 🇨🇳
+- English 🇺🇸
+- Arabic 
+
+
 
