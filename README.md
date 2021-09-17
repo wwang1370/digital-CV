@@ -47,7 +47,7 @@ NSF grant on Semi-Parametric Factor Analysis for Item Responses and ResponseTime
 
 5. Liu, Y. & **Wang, W.**(submitted). Semiparametric Factor Analysis for Item-Level Response Time Data.
 
-6. **Wang, W.**, Liu, Y., & Liu, H. (submitted). Detecting item differential functioning without prede-fined anchor items.
+6. **Wang, W.**, Liu, Y., & Liu, H. (submitted). Detecting item differential functioning without predefined anchor items.
 
 7. **Wang, W.**&  Harring,  J.  R.  (submitted). Robustness  Conditions  for  MIIV-2SLS  and  Model  Re-specification.
 
